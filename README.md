@@ -1,3 +1,4 @@
+## Code repo is private as of now , but website is live and running
 # PESU Hub - Student Marketplace
 
 A modern, secure marketplace platform built specifically for PES University students to buy, sell, and exchange items like textbooks, electronics, furniture, and more.
